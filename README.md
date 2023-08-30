@@ -1,4 +1,4 @@
-# Elecric Motor Analysis
+# Electric Motor Analysis
 
 The goal of this project is to identify the permanent magnet temperature for an electric motor during the operating regime
 
